@@ -1,4 +1,5 @@
 import './style.css'
+import './photo.css'
 
 const themeToggle = document.querySelector('.theme-toggle')
 const menuToggle = document.querySelector('.menu-toggle')
